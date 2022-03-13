@@ -1,7 +1,7 @@
 ### Hi there👋
 
 * I am Prabhav Dogra, a programming enthusiast.
-* I am currently looking for SDE oppurtunities.
+* I am currently looking for SDE opportunities.
 
 ### Some languages I'm familiar with
 * C++
