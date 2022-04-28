@@ -7,6 +7,7 @@
 * C++
 * C
 * Javascript
+* Dart
 * Python
 
 ### Some things I like to do
