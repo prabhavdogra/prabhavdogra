@@ -18,7 +18,7 @@
 
 ### Connect with me
 * 💬 Feel free to ask for any help in any of the above things, I will definitely try to help.
-* 📫 How to reach me: Connect with me on [LinkedIn](https://www.linkedin.com/in/prabhav-dogra-659365187/) or on [GitHub](https://github.com/prabhavdogra).
+* 📫 How to reach me: Connect with me on [LinkedIn](https://www.linkedin.com/in/prabhav-dogra/) or on [GitHub](https://github.com/prabhavdogra).
 
 
 ![](https://github.com/prabhavdogra/stats/blob/master/generated/languages.svg)
