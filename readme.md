@@ -8,11 +8,12 @@
 * C
 * Javascript
 * Dart
+* Flutter
 * Python
 
 ### Some things I like to do
 * Competitive Programming, I am an active participant in Codechef, Codeforces and Atcoder. My handler is ``prabhav_`` in all these sites.
-* Frontend web development, I love exploring new creative things my current hobby is is animating SVG images which you can checkout on my [Codepen](https://codepen.io/your-work/) profile.
+* Frontend and Backend Development
 * Apart from Computer Science I love listening and playing music, I have a Diploma in Classical Music.
 
 ### Connect with me
