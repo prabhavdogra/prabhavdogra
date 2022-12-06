@@ -12,7 +12,7 @@
 * Python
 
 ### Some things I like to do
-* Competitive Programming, I am an active participant in Codechef, Codeforces and Atcoder. My handler is ``prabhav_`` in all these sites.
+* Competitive Programming, I am an active participant in Codechef, Codeforces and Atcoder. My handle is ``prabhav_`` in all these sites.
 * Frontend and Backend Development
 * Apart from Computer Science I love listening and playing music, I have a Diploma in Classical Music.
 
