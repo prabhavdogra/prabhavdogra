@@ -6,7 +6,7 @@
 ### Some things I like to do
 * Problem Solving, doing a lot of Competitive Programming made me realise I love the thrill of solving problems.
 * Diving into the source code of anything.
-* Apart from Computer Science I love listening and playing music, I have a Diploma in Classical Music.
+* Apart from Computer Science I love listening and playing music.
 
 ### Connect with me
 * 💬 Feel free to ask for any help in any of the above things, I will definitely try to help.
